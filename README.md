@@ -1,4 +1,4 @@
 csp
 ===
 
-constraints solving programming
+Constraints solving problems implementations
